@@ -134,11 +134,7 @@ const Login = ({ onLogin }) => {
           >
             Use Demo Account (Taylor)
           </button>
-          <div className="mt-3 text-xs text-gray-500 space-y-1">
-            <div>📧 taylor@quickbite.com | 🔑 taylor123</div>
-            <div>📧 admin@quickbite.com | 🔑 admin123</div>
-            <div>📧 demo@quickbite.com | 🔑 demo123</div>
-          </div>
+         
         </div>
       </div>
     </div>
