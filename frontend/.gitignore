@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules
+**/node_modules
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env
+*.env
+
+# Build and output directories
+build
+dist
