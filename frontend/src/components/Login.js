@@ -10,7 +10,7 @@ const Login = ({ onLogin }) => {
 
   // Static user credentials
   const STATIC_USERS = [
-    { email: 'taylor@quickbite.com', password: 'taylor123', name: 'Taylor Johnson' },
+    { email: 'taylor@quickbite.com', password: 'taylor123', name: 'Taylor' },
     { email: 'admin@quickbite.com', password: 'admin123', name: 'Admin User' },
     { email: 'demo@quickbite.com', password: 'demo123', name: 'Demo User' }
   ];
